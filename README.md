@@ -6,4 +6,4 @@
   
   3- update if tasks have the same priority
   
-  4- Extra task → preemptive and non-preemptive
+NOTE → "SCHEDULER" DRIVER IN _HAL 
